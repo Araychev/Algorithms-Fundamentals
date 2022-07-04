@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Combinations with Repet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. N Choose K Count", "07. N Choose K Count\07. N Choose K Count.csproj", "{A6312637-3013-42B3-970C-9E90A6B446DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Reverse Array", "01. Reverse Array\01. Reverse Array.csproj", "{C5E27172-6F70-4B6D-A1EB-6C21EE7B98E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{A6312637-3013-42B3-970C-9E90A6B446DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6312637-3013-42B3-970C-9E90A6B446DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6312637-3013-42B3-970C-9E90A6B446DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E27172-6F70-4B6D-A1EB-6C21EE7B98E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E27172-6F70-4B6D-A1EB-6C21EE7B98E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E27172-6F70-4B6D-A1EB-6C21EE7B98E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E27172-6F70-4B6D-A1EB-6C21EE7B98E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
