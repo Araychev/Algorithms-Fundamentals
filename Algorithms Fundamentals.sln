@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. 8 Queens Puzzle", "06. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Permutations without Repetition", "01. Permutations without Repetition\01. Permutations without Repetition.csproj", "{A5E90BE0-8E03-4340-8355-E64D38D0207A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Permutations with Repetition", "02. Permutations with Repetition\02. Permutations with Repetition.csproj", "{09BCBB74-62A6-46F7-B5E7-C9CBE7680791}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{A5E90BE0-8E03-4340-8355-E64D38D0207A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5E90BE0-8E03-4340-8355-E64D38D0207A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5E90BE0-8E03-4340-8355-E64D38D0207A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09BCBB74-62A6-46F7-B5E7-C9CBE7680791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BCBB74-62A6-46F7-B5E7-C9CBE7680791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BCBB74-62A6-46F7-B5E7-C9CBE7680791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BCBB74-62A6-46F7-B5E7-C9CBE7680791}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
