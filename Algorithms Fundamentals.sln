@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Recursive Array Sum", "01. Recursive Array Sum\01. Recursive Array Sum.csproj", "{E37A5BB0-57CD-4320-93F2-1AFCCC1DE8EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Recursive Array Sum", "01. Recursive Array Sum\01. Recursive Array Sum.csproj", "{E37A5BB0-57CD-4320-93F2-1AFCCC1DE8EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Recursive Drawing", "02. Recursive Drawing\02. Recursive Drawing.csproj", "{1907BFF8-A63F-4EC3-851E-9F43E1A04716}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Recursive Drawing", "02. Recursive Drawing\02. Recursive Drawing.csproj", "{1907BFF8-A63F-4EC3-851E-9F43E1A04716}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Generating 0 1 Vectors", "03. Generating 0 1 Vectors\03. Generating 0 1 Vectors.csproj", "{B4169A77-6C1D-48E4-83A7-7FBCB1AECE07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Generating 0 1 Vectors", "03. Generating 0 1 Vectors\03. Generating 0 1 Vectors.csproj", "{B4169A77-6C1D-48E4-83A7-7FBCB1AECE07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Recursive Factorial", "04. Recursive Factorial\04. Recursive Factorial.csproj", "{4F96CE6F-3C48-4292-8566-6B1C704346C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Recursive Factorial", "04. Recursive Factorial\04. Recursive Factorial.csproj", "{4F96CE6F-3C48-4292-8566-6B1C704346C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Paths in Labyrinth", "05. Paths in Labyrinth\05. Paths in Labyrinth.csproj", "{60D02D24-0FA0-43F7-B583-640216C7A07C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Paths in Labyrinth", "05. Paths in Labyrinth\05. Paths in Labyrinth.csproj", "{60D02D24-0FA0-43F7-B583-640216C7A07C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. 8 Queens Puzzle", "06. 8 Queens Puzzle\06. 8 Queens Puzzle.csproj", "{B1AAB327-7C36-42FC-BD05-30814C7B544F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. 8 Queens Puzzle", "06. 8 Queens Puzzle\06. 8 Queens Puzzle.csproj", "{B1AAB327-7C36-42FC-BD05-30814C7B544F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Permutations without Repetition", "01. Permutations without Repetition\01. Permutations without Repetition.csproj", "{A5E90BE0-8E03-4340-8355-E64D38D0207A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{B1AAB327-7C36-42FC-BD05-30814C7B544F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1AAB327-7C36-42FC-BD05-30814C7B544F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1AAB327-7C36-42FC-BD05-30814C7B544F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5E90BE0-8E03-4340-8355-E64D38D0207A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E90BE0-8E03-4340-8355-E64D38D0207A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E90BE0-8E03-4340-8355-E64D38D0207A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E90BE0-8E03-4340-8355-E64D38D0207A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
