@@ -63,6 +63,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Shortest Path", "03. Sh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Distance Between Vertices", "01. Distance Between Vertices\01. Distance Between Vertices.csproj", "{BD55CCCB-37D6-4264-B3DB-7A33D8A1A466}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Areas in Matrix", "02. Areas in Matrix\02. Areas in Matrix.csproj", "{5A0565D0-2AEC-4121-AA30-8CEC1DAE415A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Cycles in Graph", "03. Cycles in Graph\03. Cycles in Graph.csproj", "{B2092828-0BAD-4D3A-9DA1-61268619DE8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +193,14 @@ Global
 		{BD55CCCB-37D6-4264-B3DB-7A33D8A1A466}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD55CCCB-37D6-4264-B3DB-7A33D8A1A466}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD55CCCB-37D6-4264-B3DB-7A33D8A1A466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A0565D0-2AEC-4121-AA30-8CEC1DAE415A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0565D0-2AEC-4121-AA30-8CEC1DAE415A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0565D0-2AEC-4121-AA30-8CEC1DAE415A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0565D0-2AEC-4121-AA30-8CEC1DAE415A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2092828-0BAD-4D3A-9DA1-61268619DE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2092828-0BAD-4D3A-9DA1-61268619DE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2092828-0BAD-4D3A-9DA1-61268619DE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2092828-0BAD-4D3A-9DA1-61268619DE8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
