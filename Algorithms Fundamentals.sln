@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Fibonacci", "01. Fibona
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Move Down or Right", "02. Move Down or Right\02. Move Down or Right.csproj", "{F67AC329-E5ED-4F21-9884-FE271C3C8D5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Longest Common Subsequence", "03. Longest Common Subsequence\03. Longest Common Subsequence.csproj", "{311275E9-76F6-4294-9490-44979FF0F61A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{F67AC329-E5ED-4F21-9884-FE271C3C8D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F67AC329-E5ED-4F21-9884-FE271C3C8D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F67AC329-E5ED-4F21-9884-FE271C3C8D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{311275E9-76F6-4294-9490-44979FF0F61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{311275E9-76F6-4294-9490-44979FF0F61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{311275E9-76F6-4294-9490-44979FF0F61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{311275E9-76F6-4294-9490-44979FF0F61A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
