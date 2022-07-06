@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Sum of Coins", "07. Sum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Set Cover", "08. Set Cover\08. Set Cover.csproj", "{759B2506-2B48-4D97-A4CA-EF5D47CE14FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Connected Components", "01. Connected Components\01. Connected Components.csproj", "{5898C6CE-FB22-4614-B6BA-6BFD32A2F202}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{759B2506-2B48-4D97-A4CA-EF5D47CE14FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{759B2506-2B48-4D97-A4CA-EF5D47CE14FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{759B2506-2B48-4D97-A4CA-EF5D47CE14FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5898C6CE-FB22-4614-B6BA-6BFD32A2F202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5898C6CE-FB22-4614-B6BA-6BFD32A2F202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5898C6CE-FB22-4614-B6BA-6BFD32A2F202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5898C6CE-FB22-4614-B6BA-6BFD32A2F202}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
