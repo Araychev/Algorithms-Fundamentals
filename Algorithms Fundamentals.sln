@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Dividing Presents", "02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Sum with Unlimited Coins", "03. Sum with Unlimited Coins\03. Sum with Unlimited Coins.csproj", "{22E573C1-BD2C-4758-8236-CA990D5C1A51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sum with Limited Coins", "04. Sum with Limited Coins\04. Sum with Limited Coins.csproj", "{C322BA49-7B1F-4DC4-9882-E9CCB73F6BE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{22E573C1-BD2C-4758-8236-CA990D5C1A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22E573C1-BD2C-4758-8236-CA990D5C1A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22E573C1-BD2C-4758-8236-CA990D5C1A51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C322BA49-7B1F-4DC4-9882-E9CCB73F6BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C322BA49-7B1F-4DC4-9882-E9CCB73F6BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C322BA49-7B1F-4DC4-9882-E9CCB73F6BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C322BA49-7B1F-4DC4-9882-E9CCB73F6BE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
