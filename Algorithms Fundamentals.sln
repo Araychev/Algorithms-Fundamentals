@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Road Reconstruction", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Fibonacci", "01. Fibonacci\01. Fibonacci.csproj", "{6B455A79-CAE3-43DC-AF3A-FCD07004C804}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Move Down or Right", "02. Move Down or Right\02. Move Down or Right.csproj", "{F67AC329-E5ED-4F21-9884-FE271C3C8D5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{6B455A79-CAE3-43DC-AF3A-FCD07004C804}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B455A79-CAE3-43DC-AF3A-FCD07004C804}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B455A79-CAE3-43DC-AF3A-FCD07004C804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F67AC329-E5ED-4F21-9884-FE271C3C8D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67AC329-E5ED-4F21-9884-FE271C3C8D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67AC329-E5ED-4F21-9884-FE271C3C8D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67AC329-E5ED-4F21-9884-FE271C3C8D5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
