@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sum with Limited Coins"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Word Differences", "05. Word Differences\05. Word Differences.csproj", "{C0DC4A00-EA76-4D75-A193-42C5D6E34EBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Connecting Cables", "06. Connecting Cables\06. Connecting Cables.csproj", "{2F2190D4-191A-4977-BA2E-BC0586A0F523}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +269,10 @@ Global
 		{C0DC4A00-EA76-4D75-A193-42C5D6E34EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0DC4A00-EA76-4D75-A193-42C5D6E34EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0DC4A00-EA76-4D75-A193-42C5D6E34EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F2190D4-191A-4977-BA2E-BC0586A0F523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2190D4-191A-4977-BA2E-BC0586A0F523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2190D4-191A-4977-BA2E-BC0586A0F523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2190D4-191A-4977-BA2E-BC0586A0F523}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
