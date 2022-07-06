@@ -49,6 +49,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Bubble Sort", "03. Bubb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Quicksort", "05. Quicksort\05. Quicksort.csproj", "{0D510978-DBF9-458F-98B8-D61F0649EAE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Merge Sort", "06. Merge Sort\06. Merge Sort.csproj", "{9F31AB0F-178C-4808-B497-9B2960EEEF15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Sum of Coins", "07. Sum of Coins\07. Sum of Coins.csproj", "{E0652B68-98F2-4509-8F11-27B03886CA0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +151,14 @@ Global
 		{0D510978-DBF9-458F-98B8-D61F0649EAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D510978-DBF9-458F-98B8-D61F0649EAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D510978-DBF9-458F-98B8-D61F0649EAE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F31AB0F-178C-4808-B497-9B2960EEEF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F31AB0F-178C-4808-B497-9B2960EEEF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F31AB0F-178C-4808-B497-9B2960EEEF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F31AB0F-178C-4808-B497-9B2960EEEF15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0652B68-98F2-4509-8F11-27B03886CA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0652B68-98F2-4509-8F11-27B03886CA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0652B68-98F2-4509-8F11-27B03886CA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0652B68-98F2-4509-8F11-27B03886CA0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
