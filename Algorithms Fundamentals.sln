@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Topological Sorting", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Shortest Path", "03. Shortest Path\03. Shortest Path.csproj", "{259DF686-2212-4EB2-A2D0-4F7D038BFB01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Distance Between Vertices", "01. Distance Between Vertices\01. Distance Between Vertices.csproj", "{BD55CCCB-37D6-4264-B3DB-7A33D8A1A466}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{259DF686-2212-4EB2-A2D0-4F7D038BFB01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{259DF686-2212-4EB2-A2D0-4F7D038BFB01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{259DF686-2212-4EB2-A2D0-4F7D038BFB01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD55CCCB-37D6-4264-B3DB-7A33D8A1A466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD55CCCB-37D6-4264-B3DB-7A33D8A1A466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD55CCCB-37D6-4264-B3DB-7A33D8A1A466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD55CCCB-37D6-4264-B3DB-7A33D8A1A466}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
