@@ -37,61 +37,63 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Connected Areas in Matr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Cinema", "04. Cinema\04. Cinema.csproj", "{76BE1F3A-150D-4FDF-810A-3EB3A3FC6BF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Binary Search", "01. Binary Search\01. Binary Search.csproj", "{EB333A2B-C660-455E-9419-37227D2C49B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Binary Search", "01. Binary Search\01. Binary Search.csproj", "{EB333A2B-C660-455E-9419-37227D2C49B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. School Teams", "05. School Teams\05. School Teams.csproj", "{6F1EDF13-8BCE-45B7-9723-B9AB30D8BC0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. School Teams", "05. School Teams\05. School Teams.csproj", "{6F1EDF13-8BCE-45B7-9723-B9AB30D8BC0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Word Cruncher", "06. Word Cruncher\06. Word Cruncher.csproj", "{8A6A1353-0C1B-4338-B97B-3CAD046BA985}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Word Cruncher", "06. Word Cruncher\06. Word Cruncher.csproj", "{8A6A1353-0C1B-4338-B97B-3CAD046BA985}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Selection Sort", "02. Selection Sort\02. Selection Sort.csproj", "{37F8D851-008D-475A-ADB6-2F3F702AF07D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Selection Sort", "02. Selection Sort\02. Selection Sort.csproj", "{37F8D851-008D-475A-ADB6-2F3F702AF07D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Bubble Sort", "03. Bubble Sort\03. Bubble Sort.csproj", "{FD66EEA0-E518-45C3-8C13-77EE2DEC3F95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Bubble Sort", "03. Bubble Sort\03. Bubble Sort.csproj", "{FD66EEA0-E518-45C3-8C13-77EE2DEC3F95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Quicksort", "05. Quicksort\05. Quicksort.csproj", "{0D510978-DBF9-458F-98B8-D61F0649EAE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Quicksort", "05. Quicksort\05. Quicksort.csproj", "{0D510978-DBF9-458F-98B8-D61F0649EAE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Merge Sort", "06. Merge Sort\06. Merge Sort.csproj", "{9F31AB0F-178C-4808-B497-9B2960EEEF15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Merge Sort", "06. Merge Sort\06. Merge Sort.csproj", "{9F31AB0F-178C-4808-B497-9B2960EEEF15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Sum of Coins", "07. Sum of Coins\07. Sum of Coins.csproj", "{E0652B68-98F2-4509-8F11-27B03886CA0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Sum of Coins", "07. Sum of Coins\07. Sum of Coins.csproj", "{E0652B68-98F2-4509-8F11-27B03886CA0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Set Cover", "08. Set Cover\08. Set Cover.csproj", "{759B2506-2B48-4D97-A4CA-EF5D47CE14FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Set Cover", "08. Set Cover\08. Set Cover.csproj", "{759B2506-2B48-4D97-A4CA-EF5D47CE14FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Connected Components", "01. Connected Components\01. Connected Components.csproj", "{5898C6CE-FB22-4614-B6BA-6BFD32A2F202}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Connected Components", "01. Connected Components\01. Connected Components.csproj", "{5898C6CE-FB22-4614-B6BA-6BFD32A2F202}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Topological Sorting", "02. Topological Sorting\02. Topological Sorting.csproj", "{04AA8543-7613-4CFB-AC25-1B68F9A74EEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Topological Sorting", "02. Topological Sorting\02. Topological Sorting.csproj", "{04AA8543-7613-4CFB-AC25-1B68F9A74EEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Shortest Path", "03. Shortest Path\03. Shortest Path.csproj", "{259DF686-2212-4EB2-A2D0-4F7D038BFB01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Shortest Path", "03. Shortest Path\03. Shortest Path.csproj", "{259DF686-2212-4EB2-A2D0-4F7D038BFB01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Distance Between Vertices", "01. Distance Between Vertices\01. Distance Between Vertices.csproj", "{BD55CCCB-37D6-4264-B3DB-7A33D8A1A466}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Distance Between Vertices", "01. Distance Between Vertices\01. Distance Between Vertices.csproj", "{BD55CCCB-37D6-4264-B3DB-7A33D8A1A466}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Areas in Matrix", "02. Areas in Matrix\02. Areas in Matrix.csproj", "{5A0565D0-2AEC-4121-AA30-8CEC1DAE415A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Areas in Matrix", "02. Areas in Matrix\02. Areas in Matrix.csproj", "{5A0565D0-2AEC-4121-AA30-8CEC1DAE415A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Cycles in Graph", "03. Cycles in Graph\03. Cycles in Graph.csproj", "{B2092828-0BAD-4D3A-9DA1-61268619DE8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Cycles in Graph", "03. Cycles in Graph\03. Cycles in Graph.csproj", "{B2092828-0BAD-4D3A-9DA1-61268619DE8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Salaries", "04. Salaries\04. Salaries.csproj", "{FDDEE109-F1D1-431C-A48A-7078B4EAC954}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Salaries", "04. Salaries\04. Salaries.csproj", "{FDDEE109-F1D1-431C-A48A-7078B4EAC954}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Break Cycles", "05. Break Cycles\05. Break Cycles.csproj", "{29654812-ACAC-4562-9AAA-7228767D8EFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Break Cycles", "05. Break Cycles\05. Break Cycles.csproj", "{29654812-ACAC-4562-9AAA-7228767D8EFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Road Reconstruction", "06. Road Reconstruction\06. Road Reconstruction.csproj", "{E6AAF3E8-EF67-406E-B590-CDCD9090CAD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Road Reconstruction", "06. Road Reconstruction\06. Road Reconstruction.csproj", "{E6AAF3E8-EF67-406E-B590-CDCD9090CAD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Fibonacci", "01. Fibonacci\01. Fibonacci.csproj", "{6B455A79-CAE3-43DC-AF3A-FCD07004C804}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Fibonacci", "01. Fibonacci\01. Fibonacci.csproj", "{6B455A79-CAE3-43DC-AF3A-FCD07004C804}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Move Down or Right", "02. Move Down or Right\02. Move Down or Right.csproj", "{F67AC329-E5ED-4F21-9884-FE271C3C8D5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Move Down or Right", "02. Move Down or Right\02. Move Down or Right.csproj", "{F67AC329-E5ED-4F21-9884-FE271C3C8D5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Longest Common Subsequence", "03. Longest Common Subsequence\03. Longest Common Subsequence.csproj", "{311275E9-76F6-4294-9490-44979FF0F61A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Longest Common Subsequence", "03. Longest Common Subsequence\03. Longest Common Subsequence.csproj", "{311275E9-76F6-4294-9490-44979FF0F61A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Binomial Coefficients", "01. Binomial Coefficients\01. Binomial Coefficients.csproj", "{3A25573A-6377-4682-9F78-718CDB1E4AEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Binomial Coefficients", "01. Binomial Coefficients\01. Binomial Coefficients.csproj", "{3A25573A-6377-4682-9F78-718CDB1E4AEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Dividing Presents", "02. Dividing Presents\02. Dividing Presents.csproj", "{983340C5-A517-4560-B96A-CA26BFE14D3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Dividing Presents", "02. Dividing Presents\02. Dividing Presents.csproj", "{983340C5-A517-4560-B96A-CA26BFE14D3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Sum with Unlimited Coins", "03. Sum with Unlimited Coins\03. Sum with Unlimited Coins.csproj", "{22E573C1-BD2C-4758-8236-CA990D5C1A51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Sum with Unlimited Coins", "03. Sum with Unlimited Coins\03. Sum with Unlimited Coins.csproj", "{22E573C1-BD2C-4758-8236-CA990D5C1A51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sum with Limited Coins", "04. Sum with Limited Coins\04. Sum with Limited Coins.csproj", "{C322BA49-7B1F-4DC4-9882-E9CCB73F6BE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Sum with Limited Coins", "04. Sum with Limited Coins\04. Sum with Limited Coins.csproj", "{C322BA49-7B1F-4DC4-9882-E9CCB73F6BE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Word Differences", "05. Word Differences\05. Word Differences.csproj", "{C0DC4A00-EA76-4D75-A193-42C5D6E34EBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Word Differences", "05. Word Differences\05. Word Differences.csproj", "{C0DC4A00-EA76-4D75-A193-42C5D6E34EBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Connecting Cables", "06. Connecting Cables\06. Connecting Cables.csproj", "{2F2190D4-191A-4977-BA2E-BC0586A0F523}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Connecting Cables", "06. Connecting Cables\06. Connecting Cables.csproj", "{2F2190D4-191A-4977-BA2E-BC0586A0F523}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Minimum Edit Distance", "07. Minimum Edit Distance\07. Minimum Edit Distance.csproj", "{75D579D8-89A9-4ABC-9FB8-3E11D61E49ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Minimum Edit Distance", "07. Minimum Edit Distance\07. Minimum Edit Distance.csproj", "{75D579D8-89A9-4ABC-9FB8-3E11D61E49ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Two Minutes to Midnight Exam Prep", "01. Two Minutes to Midnight Exam Prep\01. Two Minutes to Midnight Exam Prep.csproj", "{81EBBCEC-8EF0-4627-8C77-4EA314DDE734}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -279,6 +281,10 @@ Global
 		{75D579D8-89A9-4ABC-9FB8-3E11D61E49ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75D579D8-89A9-4ABC-9FB8-3E11D61E49ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75D579D8-89A9-4ABC-9FB8-3E11D61E49ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81EBBCEC-8EF0-4627-8C77-4EA314DDE734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81EBBCEC-8EF0-4627-8C77-4EA314DDE734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81EBBCEC-8EF0-4627-8C77-4EA314DDE734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81EBBCEC-8EF0-4627-8C77-4EA314DDE734}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
