@@ -93,9 +93,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Connecting Cables", "06
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Minimum Edit Distance", "07. Minimum Edit Distance\07. Minimum Edit Distance.csproj", "{75D579D8-89A9-4ABC-9FB8-3E11D61E49ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Two Minutes to Midnight Exam Prep", "01. Two Minutes to Midnight Exam Prep\01. Two Minutes to Midnight Exam Prep.csproj", "{81EBBCEC-8EF0-4627-8C77-4EA314DDE734}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Two Minutes to Midnight Exam Prep", "01. Two Minutes to Midnight Exam Prep\01. Two Minutes to Midnight Exam Prep.csproj", "{81EBBCEC-8EF0-4627-8C77-4EA314DDE734}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Time Exam prep", "02. Time Exam prep\02. Time Exam prep.csproj", "{EF985AE9-E704-4EF6-883C-B1959AE4AD0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Time Exam prep", "02. Time Exam prep\02. Time Exam prep.csproj", "{EF985AE9-E704-4EF6-883C-B1959AE4AD0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. The Story Telling Exam prep", "03. The Story Telling Exam prep\03. The Story Telling Exam prep.csproj", "{179FDCD9-598E-4F10-8A21-D3AACADC380A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +293,10 @@ Global
 		{EF985AE9-E704-4EF6-883C-B1959AE4AD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF985AE9-E704-4EF6-883C-B1959AE4AD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF985AE9-E704-4EF6-883C-B1959AE4AD0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179FDCD9-598E-4F10-8A21-D3AACADC380A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179FDCD9-598E-4F10-8A21-D3AACADC380A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179FDCD9-598E-4F10-8A21-D3AACADC380A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179FDCD9-598E-4F10-8A21-D3AACADC380A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
